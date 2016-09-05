@@ -1,0 +1,2 @@
+defmodule ElixirBeep do
+end
